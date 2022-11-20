@@ -13,4 +13,4 @@
 - ktlint VS detekt
     - ktlint 는 코딩 컨벤션을 중점적으로 본고, detekt 는 코드의 전체적인 퀄리티를 높이기 위한 분석을 수행 예를 들면, 메서드 길이가 너무 길다거나, 메서드의 depth 가 너무 깊다거나 등의 분석을 수행함
 - [https://detekt.dev/](https://detekt.dev/)
-- [설치](https://detekt.dev/docs/gettingstarted/gradletask) 및 설정[https://detekt.dev/docs/introduction/configurations]
+- [설치](https://detekt.dev/docs/gettingstarted/gradletask) 및 [설정](https://detekt.dev/docs/introduction/configurations)
